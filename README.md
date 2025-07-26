@@ -1,7 +1,7 @@
 # PRODIGY_ST_03
 Automated Login Test for a Web Application
 
-A test suite in library of your choice that
+A test suite in library of choice that
 automates testing login functionality on the
 website .
 It Include positive test cases (valid
